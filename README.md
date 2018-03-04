@@ -1,4 +1,4 @@
-This repo is about my progress in learning Perl programming.
+This repo is about my progress in learning Perl programming. This is a basic concept of Perl.
 
 I am using these videos to learn;
 https://www.youtube.com/watch?v=OVP-CqefrZY&list=PL_RGaFnxSHWpqRBcStwV0NwMA3nXMh5GC
